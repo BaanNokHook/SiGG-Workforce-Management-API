@@ -1,0 +1,5 @@
+{
+  "key1": "val1_th",
+  "key_a": "valA_th: {value}",
+  "key_b": "valB_th: {value1} {value2}"
+}

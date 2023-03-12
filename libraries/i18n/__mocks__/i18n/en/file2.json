@@ -1,0 +1,6 @@
+{
+  "key2": "val2_en",
+  "key_a": "valA_en: {value}",
+  "key_b": "valB_en: {valueA} - {valueB}",
+  "key_c": "valC_en: {valueA} - {valueB}"
+}

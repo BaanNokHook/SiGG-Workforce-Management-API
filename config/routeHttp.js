@@ -1,0 +1,16 @@
+export default {
+  authUrl: process.env.AUTH_URL,
+  ratingUrl: process.env.RATING_URL,
+  addressUrl: process.env.ADDRESS_URL,
+  fleetUrl: process.env.FLEET_URL,
+  fileServiceUrl: process.env.FILE_SERVICE_URL,
+  requestApproveUrl: process.env.REQUEST_APPROVE_URL,
+  priceCalculateUrl: process.env.CALCULATION_URL,
+  trueRydeUrl: process.env.TRUE_RYDE_URL,
+  paymentUrl: process.env.PAYMENT_URL,
+  broadcastUrl: process.env.BROADCAST_URL,
+  orderUrl: process.env.ORDER_URL,
+  dispatchUrl: process.env.DISPATCH_URL,
+  osrmUrl: process.env.OSRM_URL,
+  wfmApiTsUrl: process.env.WFM_API_TS_URL,
+}

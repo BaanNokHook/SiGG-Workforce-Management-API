@@ -1,0 +1,145 @@
+{
+  "acceptTrip.error.accept.inactiveTrip.title": "ไม่สามารถรับงานได้",
+  "acceptTrip.error.accept.inactiveTrip.message": "คุณไม่สามารถรับงานนี้ได้ กรุณาเลือกงานอื่นเพื่อรับงานใหม่",
+  "acceptTrip.error.accept.inactiveTask.title": "ไม่สามารถรับงานได้",
+  "acceptTrip.error.accept.inactiveTask.message": "คุณได้รับงานนี้ไปแล้ว กรุณาตรวจสอบการรับงานของคุณ",
+  "acceptTrip.error.accept.inactiveTodo.title": "ไม่สามารถรับงานได้",
+  "acceptTrip.error.accept.inactiveTodo.message": "คุณทำรายการนี้ไปแล้ว กรุณาตรวจสอบการรับงานของคุณ",
+
+  "acceptTrip.error.accept.totalAcceptedMaxLimit.title": "ไม่สามารถรับงานได้",
+  "acceptTrip.error.accept.totalAcceptedMaxLimit.message": "คุณมีจำนวนงานครบตามที่กำหนดแล้ว",
+
+  "acceptTrip.error.accept.noStaffOrderTicket.title": "ไม่สามารถรับงานได้",
+  "acceptTrip.error.accept.noStaffOrderTicket.message": "คุณไม่สามารถรับงานนี้ได้\nกรุณาเลือกงานอื่นเพื่อรับงาน",
+
+  "todo.error.update.parcelsInvalid.title": "ข้อมูลมีการเปลี่ยนแปลง",
+  "todo.error.update.parcelsInvalid.message": "ออเดอร์ <b>{orderId}</b><br />ที่ต้องเข้ารับมีการเปลี่ยนแปลง",
+
+  "creditWallet.error.accept.insufficientFund.title": "ไม่สามารถรับงานได้",
+  "creditWallet.error.accept.insufficientFund.message": "คุณไม่สามารถรับงานนี้ได้\nคุณมีจำนวนเครดิตไม่เพียงพอ",
+
+  "creditWallet.error.accept.cannotHoldWallet.title": "ไม่สามารถรับงานได้",
+  "creditWallet.error.accept.cannotHoldWallet.message": "ระบบเกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง",
+
+  "creditWallet.error.accept.cannotCapture.title": "ไม่สามารถจบงานได้",
+  "creditWallet.error.accept.cannotCapture.message": "ระบบเกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง",
+
+  "creditWallet.error.accept.cannotSettlement.title": "ไม่สามารถจบงานได้",
+  "creditWallet.error.accept.cannotSettlement.message": "ระบบเกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง",
+
+  "pickup.error.setOff.inactiveTrip.title": "ไม่สามารถรับสินค้าได้",
+  "pickup.error.setOff.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.setOff.inactiveTask.title": "ไม่สามารถรับสินค้าได้",
+  "pickup.error.setOff.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.setOff.inactiveTodo.title": "ไม่สามารถรับสินค้าได้",
+  "pickup.error.setOff.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "pickup.error.checkIn.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.checkIn.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.checkIn.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.checkIn.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.checkIn.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.checkIn.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "pickup.error.pickingItems.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pickingItems.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.pickingItems.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pickingItems.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.pickingItems.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pickingItems.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "pickup.error.takePhoto.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.takePhoto.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.takePhoto.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.takePhoto.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.takePhoto.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.takePhoto.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "pickup.error.pod.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pod.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.pod.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pod.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.pod.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pod.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "pickup.error.pickedUp.inactiveTrip.title": "ไม่สามารถยืนยันการรับสินค้าได้",
+  "pickup.error.pickedUp.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.pickedUp.inactiveTask.title": "ไม่สามารถยืนยันการรับสินค้าได้",
+  "pickup.error.pickedUp.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "pickup.error.pickedUp.inactiveTodo.title": "ไม่สามารถยืนยันการรับสินค้าได้",
+  "pickup.error.pickedUp.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "pickup.error.pickedUp.requiredTodoNotDone.title": "ไม่สามารถทำรายการได้",
+  "pickup.error.pickedUp.requiredTodoNotDone.message": "กรุณาตรวจสอบรายละเอียดงานอีกครั้ง",
+
+  "delivery.error.setOff.inactiveTrip.title": "ไม่สามารถส่งสินค้าได้",
+  "delivery.error.setOff.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.setOff.inactiveTask.title": "ไม่สามารถส่งสินค้าได้",
+  "delivery.error.setOff.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.setOff.inactiveTodo.title": "ไม่สามารถส่งสินค้าได้",
+  "delivery.error.setOff.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.checkIn.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.checkIn.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.checkIn.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.checkIn.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.checkIn.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.checkIn.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.takePhoto.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.takePhoto.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.takePhoto.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.takePhoto.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.takePhoto.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.takePhoto.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.pod.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.pod.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.pod.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.pod.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.pod.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.pod.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.cod.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.cod.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.cod.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.cod.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.cod.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.cod.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.summary.inactiveTrip.title": "ไม่สามารถสรุปยอดค่าโดยสารได้",
+  "delivery.error.summary.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.summary.inactiveTask.title": "ไม่สามารถสรุปยอดค่าโดยสารได้",
+  "delivery.error.summary.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.summary.inactiveTodo.title": "ไม่สามารถสรุปยอดค่าโดยสารได้",
+  "delivery.error.summary.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.receipt.inactiveTrip.title": "ไม่สามารถยืนยันการชำระเงินได้",
+  "delivery.error.receipt.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.receipt.inactiveTask.title": "ไม่สามารถยืนยันการชำระเงินได้",
+  "delivery.error.receipt.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.receipt.inactiveTodo.title": "ไม่สามารถยืนยันการชำระเงินได้",
+  "delivery.error.receipt.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.delivered.inactiveTrip.title": "ไม่สามารถยืนยันการส่งสินค้าได้",
+  "delivery.error.delivered.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "delivery.error.delivered.inactiveTask.title": "ไม่สามารถยืนยันการส่งสินค้าได้",
+  "delivery.error.delivered.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "delivery.error.delivered.requiredTodoNotDone.title": "ไม่สามารถทำรายการได้",
+  "delivery.error.delivered.requiredTodoNotDone.message": "กรุณาตรวจสอบรายละเอียดงานอีกครั้ง",
+
+  "return.error.setOff.inactiveTrip.title": "ไม่สามารถคืนสินค้าได้",
+  "return.error.setOff.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "return.error.setOff.inactiveTask.title": "ไม่สามารถคืนสินค้าได้",
+  "return.error.setOff.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "return.error.setOff.inactiveTodo.title": "ไม่สามารถคืนสินค้าได้",
+  "return.error.setOff.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+
+  "return.error.checkIn.inactiveTrip.title": "ไม่สามารถทำรายการได้",
+  "return.error.checkIn.inactiveTrip.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "return.error.checkIn.inactiveTask.title": "ไม่สามารถทำรายการได้",
+  "return.error.checkIn.inactiveTask.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน",
+  "return.error.checkIn.inactiveTodo.title": "ไม่สามารถทำรายการได้",
+  "return.error.checkIn.inactiveTodo.message": "คุณได้ทำรายการนี้ไปแล้ว กรุณาตรวจสอบรายละเอียดงาน"
+}

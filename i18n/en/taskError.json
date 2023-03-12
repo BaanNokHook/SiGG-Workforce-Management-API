@@ -1,0 +1,19 @@
+{
+  "acceptTrip.error.accept.noStaffOrderTicket.title": "Cannot accept this order",
+  "acceptTrip.error.accept.noStaffOrderTicket.message": "You cannot accept this order\nplease select another order to accept",
+
+  "todo.error.update.parcelsInvalid.title": "Order updated",
+  "todo.error.update.parcelsInvalid.message": "Order <b>{orderId}</b>\nhas been changed",
+
+  "creditWallet.error.accept.insufficientFund.title": "Cannot accept this order",
+  "creditWallet.error.accept.insufficientFund.message": "You cannot accept this order\nYour credit wallet is not enough",
+
+  "creditWallet.error.accept.cannotHoldWallet.title": "Cannot accept this order",
+  "creditWallet.error.accept.cannotHoldWallet.message": "Something went wrong (Try again later)",
+
+  "creditWallet.error.accept.cannotCapture.title": "Cannot complete this order",
+  "creditWallet.error.accept.cannotCapture.message": "Something went wrong (Try again later)",
+
+  "creditWallet.error.accept.cannotSettlement.title": "Cannot complete this order",
+  "creditWallet.error.accept.cannotSettlement.message": "Something went wrong (Try again later)"
+}

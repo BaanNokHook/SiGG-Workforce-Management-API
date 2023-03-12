@@ -1,0 +1,18 @@
+export const VEHICLE_TYPE = {
+  CAR: 'CAR',
+  MOTORCYCLE: 'MOTORCYCLE',
+}
+
+export const VEHICLE_DIRECTION = {
+  CAR: ['TOLL', 'MOTORWAY'],
+  MOTORCYCLE: ['TOLL'],
+}
+
+export const DIRECTION_TYPE = {
+  TOLL: 'TOLL',
+  MOTORWAY: 'MOTORWAY',
+  FERRY: 'FERRY',
+  TUNNEL: 'TUNNEL',
+  DIRT: 'DIRT',
+  PARK: 'PARK',
+}
